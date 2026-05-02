@@ -1,0 +1,15 @@
+body{
+    font-family: Arial;
+    background: yellow;
+}
+h1,h2,p{
+
+  text-align: center;
+}
+hr{
+    color:black;
+}
+
+b ,ul,li{
+ text-align: center;
+}
